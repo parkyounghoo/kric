@@ -1,0 +1,5 @@
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\kric\bin\Debug\kric.exe.config
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\kric\bin\Debug\kric.exe
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\kric\bin\Debug\kric.pdb
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\kric\obj\Debug\kric.exe
+C:\Users\admin_kpc\Desktop\프로젝트\02.Project\KPC_Monitoring\kric\obj\Debug\kric.pdb
